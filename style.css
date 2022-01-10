@@ -1,5 +1,5 @@
 body{
- background-color:#78C3FB;
+ background-color:#BEE3DB;
 }
 h1{
  color:#826AED;
@@ -12,7 +12,7 @@ h1{
 }
 ul{
  list-style-type: none;
- background color: #826AED;
+ background color: #BEE3DB;
  width: 100%;
  overflow: hidden;
  position: fixed;
@@ -30,7 +30,7 @@ li a{
  text-decoration: none;
  padding: 15px;
  border-style: solid;
- font-family: cursive, "Lucida Handwriting";
+ font-family: cursive, "Papyrus";
 }
 li a:hover {
  background-color: antiquewhite;
