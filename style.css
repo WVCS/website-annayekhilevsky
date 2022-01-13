@@ -30,7 +30,7 @@ li a{
  text-decoration: none;
  padding: 15px;
  border-style: solid;
- font-family: cursive, "Papyrus";
+ font-family: "Papyrus";
 }
 li a:hover {
  background-color: antiquewhite;
